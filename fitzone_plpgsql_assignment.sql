@@ -418,43 +418,4 @@ for each row execute function update_booking_table();
 UPDATE booking
 SET rating = 1
 WHERE member_id = 1;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
